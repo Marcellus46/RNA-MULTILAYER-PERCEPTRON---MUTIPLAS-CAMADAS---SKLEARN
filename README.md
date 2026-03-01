@@ -33,9 +33,9 @@ Editor de Código Utilizado:
 
 ## Experiência nos Treinamentos de Testes.
 
-OBS1:  Neste RNA no Google Colabs logo no  primeiro teste foi bem satisfatório assim como descrito no arquivo de iamgens de testes, aqui não houve mudanças e rodou perfeitamente, já funcionando a rede neural como mostrado no gráfico de plotagem. Neste Treinamento não houve auxílio da IA Generativa Gemini. Há um segundo gráfico que foi adicionado nos códigos para ter melhor visualização (também descritos no arquivo). Concluindo assim as 3 etapas das redes neurais propostos pelo curso. 
+OBS1:  Neste RNA no Google Colabs logo no  primeiro teste foi bem satisfatório assim como descrito no arquivo de iamgens de testes, aqui não houve mudanças e rodou perfeitamente, já funcionando a rede neural como mostrado no gráfico de plotagem. Neste Treinamento não houve auxílio da IA Generativa Gemini. Há um segundo gráfico que foi adicionado nos códigos, pois ãos duas amostras de treinamento (também descritos no arquivo). Concluindo assim as 4ª etapa das redes neurais propostos pelo curso. 
 
-OBS2: Este treinamento é a 2ª parte da rede neural Multilayer Perceptron (Multiplas Camadas), agora com Sklearn os códigos e o gráfico são parecidos, mas diferen quando analisado minunciosamente , pois são de múltiplas camadas e um pouco mais complexo.
+OBS2: Este treinamento é a 4ª parte da rede neural Multilayer Perceptron (Multiplas Camadas), agora com Sklearn os códigos e o gráfico são parecidos, mas diferen quando analisado minunciosamente , pois são de múltiplas camadas e um pouco mais complexo.
 
 OBS3: Não houve uso do VsCode.
 
